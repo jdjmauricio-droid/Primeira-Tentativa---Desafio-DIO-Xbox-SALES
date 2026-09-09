@@ -8,3 +8,5 @@ Eu tentei criar algo mais profissional, então eu fiz uma entrada com VBA. Fiz u
 LOGIN : JOSUE
 
 SENHA : 1234
+
+(Caso queira modificar e visualizar as planilhas bases vá em REVISÂO >>> PROTEGER PASTA DE TRABALHO >>> SENHA:123)
